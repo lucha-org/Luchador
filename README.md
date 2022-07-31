@@ -1,0 +1,2 @@
+# Luchador
+My Luchador Config

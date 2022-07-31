@@ -1,0 +1,5 @@
+Auth: true
+Third Party Auth: true
+Realtime Database: true
+Storage: true
+Functions: true
